@@ -1,0 +1,6 @@
+name = "Super Mario Odyssey"
+home = "https://discord.com/channels/1345801058609270794/1353473581513969756"
+default_url = "https://github.com/AdalynBlack/SuperMarioOdysseyArchipelago/releases/download/{{version}}/smo.apworld"
+
+[versions]
+"v1.7.4" = {}
