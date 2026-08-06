@@ -5,4 +5,4 @@ disabled = true
 
 [versions]
 "1.7.4" = {}
-"1.7.5P1" = { url = "https://github.com/AdalynBlack/SuperMarioOdysseyArchipelago/releases/download/v1.7.5-Pre1/smo.apworld" }
+"1.7.5" = { url = "https://github.com/AdalynBlack/SuperMarioOdysseyArchipelago/releases/download/v1.7.5-Pre1/smo.apworld" }
