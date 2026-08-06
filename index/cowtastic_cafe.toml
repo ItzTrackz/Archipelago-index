@@ -1,6 +1,7 @@
 name = "Cowtastic Cafe"
 home = "https://github.com/zane31415/APCowtasticCafe"
 default_url = "https://github.com/zane31415/APCowtasticCafe/releases/download/v{{version}}/cowtastic_cafe.apworld"
+disabled = true
 
 [versions]
 "1.0.1" = {}
