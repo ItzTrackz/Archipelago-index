@@ -1,3 +1,9 @@
 name = "Archipelago"
 home = "https://archipelago.gg"
 supported = true
+default_url = "https://archipelago.gg/"
+disabled = true
+
+[versions]
+"1.0.0" = { url = "https://archipelago.gg" } #forced manual
+"1.0.1" = {} #automatic just put new version in whenever
