@@ -1,6 +1,8 @@
 name = "DELTARUNE"
 home = "https://discord.com/channels/731205301247803413/1481971897024516250"
 default_url = "https://github.com/theemeraldsword85/DELTARUNEAP/releases/download/v{{version}}/deltarune.apworld"
+disabled = true
+#No Chapter 5 implementation yet
 
 [versions]
 "0.2.7" = {}
@@ -15,3 +17,4 @@ default_url = "https://github.com/theemeraldsword85/DELTARUNEAP/releases/downloa
 "2.0.2" = {}
 "2.0.3+hotfix1" = { url = "https://github.com/theemeraldsword85/DELTARUNEAP/releases/download/v2.0.3/deltarune.apworld" }
 "2.0.4" = {}
+"2.0.5" = {}
