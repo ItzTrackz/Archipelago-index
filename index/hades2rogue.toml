@@ -1,0 +1,7 @@
+name = "Hades2Rogue"
+display_name = "Hades 2"
+home = "https://discord.com/channels/731205301247803413/1521929337954238624/1533639460871209092"
+default_url = "https://github.com/BrittisH39/Hades2Archipelago/releases/download/{{version}}/Hades2Rogue.apworld"
+#hasn't passed fuzzer yet, adding to save progress
+[versions]
+"0.9.3" = {}
