@@ -1,3 +1,7 @@
-name = "Super Smash Bros. Melee"
-# The author has publicly expressed their hatred for this project and adjacent ones, going as far as expressing their will to find a way to get excluded from it. Respect their wish
-disabled = true
+name = "melee"
+display_name = "Super Smash Bros. Melee"
+home = "https://discord.com/channels/731205301247803413/1517571334551371856/1519166710467530863"
+default_url = "https://github.com/PinkSwitch/Archipelago/releases/download/{{version}}/melee.apworld"
+
+[versions]
+"2.0.1" = {}
