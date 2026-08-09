@@ -1,0 +1,7 @@
+name = "MKWii"
+display_name = "Mario Kart Wii"
+home = "https://discord.com/channels/731205301247803413/1204920631351713823"
+default_url = "https://github.com/toent/Archipelago-MKWii/releases/download/v{{version}}/mkwii.apworld"
+
+[versions]
+"0.2.3" = {} 
