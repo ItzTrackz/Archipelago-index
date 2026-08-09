@@ -3,4 +3,4 @@ home = "https://discord.com/channels/731205301247803413/1278733078516207719"
 default_url = "https://github.com/ishanpm/Archipelago-sgtpuzzles/releases/download/v{{version}}-prealpha/sgtpuzzles.apworld"
 
 [versions]
-"0.1.16-prealpha" = {}
+"0.1.16" = {}
