@@ -1,7 +1,0 @@
-name = "The Legend of Zelda - Oracle of Seasons"
-home = "https://discord.com/channels/731205301247803413/1130706151303041054"
-default_url = "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-{{version}}/tloz_oos.apworld"
-
-[versions]
-"20.1.7" = {}
-"20.1.13" = {}

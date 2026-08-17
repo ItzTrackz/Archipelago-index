@@ -1,8 +1,0 @@
-name = "Into the Breach"
-home = "https://github.com/Ishigh1/ITB-randomizer-for-AP"
-default_url = "https://github.com/Ishigh1/ITB-randomizer-for-AP/releases/download/v{{version}}/into_the_breach.apworld"
-
-[versions]
-"0.15.15" = {}
-"0.15.17" = {}
-"0.15.18" = {}

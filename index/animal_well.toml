@@ -1,9 +1,0 @@
-name = "ANIMAL WELL"
-home = "https://discord.com/channels/731205301247803413/1238463626344665119"
-default_url = "https://github.com/ScipioWright/Archipelago-SW/releases/download/{{version}}/animal_well.apworld"
-
-[versions]
-"0.4.2" = {}
-"0.5.0" = {}
-"0.5.2" = {}
-"0.5.4" = {}

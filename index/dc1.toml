@@ -1,9 +1,0 @@
-name = "Dark Cloud 1"
-home = "https://discord.com/channels/731205301247803413/1176970562032128192"
-default_url = "https://github.com/Lizardman175/DC1AP/releases/download/v{{version}}/dc1.apworld"
-
-[versions]
-"0.4.1" = {}
-"0.4.2" = {}
-"0.4.4+1" = { url = "https://github.com/Lizardman175/DC1AP/releases/download/v0.4.4.1/dc1.apworld" }
-"0.5.4" = {}

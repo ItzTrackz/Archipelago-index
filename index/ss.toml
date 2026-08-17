@@ -1,8 +1,0 @@
-name = "Skyward Sword"
-home = "https://discord.com/channels/731205301247803413/1469917221068214444"
-default_url = "https://github.com/Battlecats59/SS_APWorld/releases/download/v{{version}}/ss.apworld"
-
-[versions]
-"0.5.4" = {}
-"0.5.5" = {}
-"0.5.6" = {}

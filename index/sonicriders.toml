@@ -1,7 +1,0 @@
-name = "Sonic Riders"
-home = "https://discord.com/channels/731205301247803413/1292128680046235739"
-# Doesn't support passwords, dev won't fix it because they're not working on AP
-# stuff anymore. This is painful for community syncs
-# https://discord.com/channels/731205301247803413/1292128680046235739/1477411330993553539
-disabled = true
-

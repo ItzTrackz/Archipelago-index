@@ -1,6 +1,0 @@
-name = "Keymaster's Keep"
-home = "https://discord.com/channels/731205301247803413/1321323711676284939"
-
-[versions]
-# Modified version with silasary's kmk injector (https://github.com/silasary/kmk_injector) to include games in the apworld
-"0.2.0+silasarybundle" = { local = "../apworlds/keymasters_keep-0.2.0+silasarybundle.apworld" }

@@ -1,6 +1,0 @@
-name = "FNaFW"
-home = "https://discord.com/channels/731205301247803413/1104088448127729704"
-
-[versions]
-# https://discord.com/channels/731205301247803413/1104088448127729704/1458251596772282522
-"0.0.4" = { local = "../apworlds/fnafw-0.0.4.apworld" }

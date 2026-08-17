@@ -1,7 +1,0 @@
-name = "Metal Gear Solid"
-home = "https://github.com/SDMichaud/Archipelago-MGS"
-tags = ["ad"]
-default_url = "https://github.com/SDMichaud/Archipelago-MGS/releases/download/v{{version}}/mgs.apworld"
-
-[versions]
-"0.7.0" = {}
