@@ -3,4 +3,5 @@ home = "https://discord.com/channels/1345801058609270794/1353473581513969756"
 default_url = "https://github.com/AdalynBlack/SuperMarioOdysseyArchipelago/releases/download/v{{version}}/smo.apworld"
 
 [versions]
+"1.7.5" = {}
 "1.7.4" = {}
