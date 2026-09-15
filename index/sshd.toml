@@ -1,0 +1,6 @@
+name = "Skyward Sword HD"
+home = "https://discord.com/channels/1345801058609270794/1484739721761656942"
+default_url = "https://github.com/LonLon-Labs/SSHD_APWorld/releases/download/{{version}}/sshd.apworld"
+
+[versions]
+"0.7.4-1" = {}
