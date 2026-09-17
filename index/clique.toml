@@ -1,0 +1,4 @@
+name = "Clique"
+
+[versions]
+"1.0.0" = { local = "../apworlds/clique.apworld" }
