@@ -1,0 +1,5 @@
+name = "Minecraft Fabric Yuta Edition"
+display_name = "Minecraft Fabric: Yuta Edition"
+
+[versions]
+"1.0.1" = { local = "../apworlds/minecraft_fabric_yuta.apworld" }
