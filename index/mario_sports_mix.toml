@@ -1,0 +1,4 @@
+name = "Mario Sports Mix"
+
+[versions]
+"1.0.0" = { local = "../apworlds/mario_sports_mix.apworld" }
