@@ -1,3 +1,6 @@
 name = "Hollow Knight"
 home = "https://archipelago.gg"
 supported = true
+
+[versions]
+"1.1.4" = { url = "https://github.com/qwint/Archipelago/releases/download/1.1.4/hk.apworld" }
