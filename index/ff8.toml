@@ -1,0 +1,6 @@
+name = "Final Fantasy VIII"
+home = "https://discord.com/channels/731205301247803413/1544398762145873954"
+default_url = "https://github.com/wilsonao/ff8_arch/releases/download/v{{version}}/ff8.apworld"
+
+[versions]
+"0.8.0" = {}
