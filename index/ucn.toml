@@ -1,0 +1,5 @@
+name = "Ultimate Custom Night"
+default_url = "https://github.com/fewffwa/UCN-AP/releases/download/{{version}}/ucn.apworld"
+
+[versions]
+"0.1.1" = {}
