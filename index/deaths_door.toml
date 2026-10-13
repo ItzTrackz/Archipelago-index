@@ -1,0 +1,5 @@
+name = "Death's Door"
+default_url = "https://github.com/Chris-Is-Awesome/DDArchipelagoRandomizer/releases/download/v{{version}}/deaths_door.apworld"
+
+[versions]
+"0.4.1" = {}
