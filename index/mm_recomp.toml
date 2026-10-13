@@ -1,0 +1,5 @@
+name = "Majoras Mask Recompiled"
+default_url = "https://github.com/RecompRando/MMRecompRando/releases/download/v{{version}}/mm_recomp.apworld"
+
+[versions]
+"0.9.5a" = {}
