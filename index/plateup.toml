@@ -2,5 +2,5 @@ name = "PlateUp"
 default_url = "https://github.com/CazIsABoi/Archipelago/releases/download/{{version}}/plateup.apworld"
 
 [versions]
-"0.2.7.2" = {}
+"2.7.2" = { url = "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.2/plateup.apworld" }
 
