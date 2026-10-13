@@ -1,0 +1,5 @@
+name = "Neon White"
+default_url = "https://github.com/Badhamknibbs/ArchipelagoNeonWhite/releases/download/v{{version}}/neonwhite.apworld"
+
+[versions]
+"0.1.1" = {}
