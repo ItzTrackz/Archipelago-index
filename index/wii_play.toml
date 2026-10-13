@@ -1,0 +1,5 @@
+name = "Wii Play"
+display_name = "Wii Play - BETA"
+
+[versions]
+"0.0.1" = { local = "../apworlds/wii_play.apworld" }
