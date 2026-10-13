@@ -1,0 +1,4 @@
+name = "Final Fantasy VIII"
+
+[versions]
+"0.1.0" = { url = "https://bigmalletman.com/dl/ff6wc.apworld" }
