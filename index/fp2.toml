@@ -1,0 +1,6 @@
+name = "Freedom Planet 2"
+home = "https://discord.com/channels/731205301247803413/1204965442494660608"
+default_url = "https://github.com/Knuxfan24/Freedom-Planet-2-Archipelago/releases/download/{{version}}/fp2.apworld"
+
+[versions]
+"0.1.2" = {}
