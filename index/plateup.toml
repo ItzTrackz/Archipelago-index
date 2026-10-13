@@ -1,0 +1,6 @@
+name = "PlateUp"
+default_url = "https://github.com/CazIsABoi/Archipelago/releases/download/{{version}}/plateup.apworld"
+
+[versions]
+"0.2.7.2" = {}
+
