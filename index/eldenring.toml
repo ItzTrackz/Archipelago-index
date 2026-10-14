@@ -1,4 +1,4 @@
-name = "Elden Ring"
+name = "EldenRing"
 home = "https://discord.com/channels/731205301247803413/1367624611256205443"
 default_url = "https://github.com/thefifthmatt/SoulsRandomizers/releases/download/eldenring-ap-{{version}}/eldenring.apworld"
 
