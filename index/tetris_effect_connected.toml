@@ -1,0 +1,5 @@
+name = "Tetris Effect: Connected"
+default_url = "https://github.com/ZatchyBeeps/Archipelago-TEC/releases/download/V{{version}}/tetriseffect.apworld"
+
+[versions]
+"0.2.0" = {}
