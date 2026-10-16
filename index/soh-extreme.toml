@@ -1,0 +1,5 @@
+name = "SOH-EXTREME"
+default_url = "https://github.com/Mikemik444/SOH_EXTREME-Extreme/releases/download/v{{version}}/soh_extreme.apworld
+
+[versions]
+"1.7.1": {}

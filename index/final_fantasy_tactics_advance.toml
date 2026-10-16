@@ -1,0 +1,5 @@
+name = "Final Fantasy Tactics Advanced"
+default_url = "https://github.com/spicynun/Archipelago/releases/download/{{version}}/ffta.apworld"
+
+[versions]
+"0.6.5" = {}
