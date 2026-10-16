@@ -3,4 +3,4 @@ display_name = "Manual: ReadBooks RoobyRoo"
 home = "https://discord.com/channels/1097532591650910289/1328225166563475456/1471028588823318558"
 
 [versions]
-"0.0.1" = { local = "../apworld/manual_readbooks_roobyroo.apworld" }
+"0.0.1" = { local = "../apworlds/manual_readbooks_roobyroo-0.0.1.apworld" }
