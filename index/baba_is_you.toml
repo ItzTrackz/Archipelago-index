@@ -3,4 +3,4 @@ display_name = "Baba is You"
 default_url = "https://github.com/EmilyEmmi/Babapelago/releases/download/{{version}}/baba_is_you.apworld"
 
 [versions]
-"b3.5" = { url = "https://github.com/EmilyEmmi/Babapelago/releases/download/b3.5/baba_is_you.apworld" }
+"3.5.0" = { url = "https://github.com/EmilyEmmi/Babapelago/releases/download/b3.5/baba_is_you.apworld" }
