@@ -1,0 +1,6 @@
+name = "manual_beemovie_mariospore"
+display_name = "Manual: Beemovie"
+home = "https://discord.com/channels/1097532591650910289/1334206544446882065/1539328164332048445"
+
+[versions]
+"0.0.1" = {local = "../apworlds/manual_beemovie_mariospore.apworld"}
