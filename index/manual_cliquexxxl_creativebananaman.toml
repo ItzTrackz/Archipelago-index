@@ -2,4 +2,4 @@ name = "Manual_CliqueXXXL_creativebananaman"
 display_name = "Manual: CliqueXXXL"
 
 [versions]
-"0.0.1" = { local = "../apworlds/Manual_CliqueXXXL_creativebananaman.apworld" }
+"0.0.1" = { local = "../apworlds/manual_cliquexxxl_creativebananaman-0.0.1.apworld" }
