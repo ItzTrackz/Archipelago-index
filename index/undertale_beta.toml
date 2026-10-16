@@ -1,0 +1,4 @@
+name = "Undertale Beta"
+
+[versions]
+"2.0.0" = {url = "https://github.com/jonloveslegos/Archipelago/releases/download/undertale-beta-2.0.0-1.2/undertale_beta.apworld"}
