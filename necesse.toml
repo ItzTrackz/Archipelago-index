@@ -1,4 +1,4 @@
 name = "Necesse"
 
 [versions]
-"0.0.1" = { local = "../apworlds/Necesse.apworld" }
+"0.0.1" = { local = "../apworlds/necesse.apworld" }
