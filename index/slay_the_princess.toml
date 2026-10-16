@@ -1,0 +1,5 @@
+name = "Slay The Princess"
+default_url = "https://github.com/Overlord-Draconic-Fire/Archipelago/releases/download/STP-{{version}}/slay_the_princess.apworld"
+
+[versions]
+"1.2.2" = {}
