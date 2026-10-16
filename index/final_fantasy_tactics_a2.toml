@@ -1,0 +1,5 @@
+name = "Final Fantasy Tactics A2"
+default_url = "https://github.com/Rurusachi/Archipelago/releases/download/FFTA2_{{version}}/ffta2.apworld"
+
+[versions]
+"0.0.9" = {}
