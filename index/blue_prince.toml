@@ -1,5 +1,5 @@
 name = "Blue Prince"
-default_url = "https://github.com/BatmenzDW/Archipelago/releases/download/{{version}}/blueprince.apworld"
+default_url = "https://github.com/BatmenzDW/Archipelago/releases/download/v{{version}}/blueprince.apworld"
 
 [versions]
-"v0.1.3" = {}
+"0.1.3" = {}
