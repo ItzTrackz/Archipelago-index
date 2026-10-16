@@ -1,0 +1,6 @@
+name = "Manual_CrystalDoors_All54321"
+display_name = "Manual: Crystal Doors All54321"
+home = "https://discordapp.com/channels/616121516383535134/1555222720688427130/1560107953179197460"
+
+[versions]
+"0.0.1" = { local = "../apworlds/manual_crystaldoors_all54321.apworld" }
