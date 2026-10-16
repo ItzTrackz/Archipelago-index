@@ -1,0 +1,5 @@
+name = "Yume 2kki"
+default_url = "https://github.com/oatmealine/yno-ap/releases/download/{{version}}/yume2kki.apworld"
+
+[versions]
+"0.3.0" = {}
