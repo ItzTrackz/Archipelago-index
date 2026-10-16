@@ -1,0 +1,5 @@
+name = "Casualties: Unknown"
+default_url = "https://github.com/Nichologeam/CUAP/releases/download/v{{version}}/casualtiesunknown.apworld"
+
+[versions]
+"0.11.0" = {}
