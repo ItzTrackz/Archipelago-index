@@ -1,0 +1,5 @@
+name = "GemCraft: Frostborn Wrath"
+default_url = "https://github.com/Levisaxos/Archipelago_GemcraftFrostbornWrath/releases/download/v{{version}/gcfw.apworld"
+
+[versions]
+"0.0.6.3" = {}
