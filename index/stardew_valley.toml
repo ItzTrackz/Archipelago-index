@@ -2,5 +2,5 @@ name = "Stardew Valley"
 home = "https://archipelago.gg"
 supported = true
 
-[version]
+[versions]
 "8.1.7" = { url = "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.7/stardew_valley.apworld" }
