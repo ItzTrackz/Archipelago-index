@@ -1,7 +1,0 @@
-name = "Manual_SlimeRancher_Axxroy"
-display_name = "Manual: Slime Rancher"
-default_url = "https://github.com/axxroytovu/archipelago_manuals/releases/download/slimerancher_{{version}}/manual_slimerancher_axxroy.apworld"
-disabled = true # Triggers some assertion, needs a manual update
-
-[versions]
-"0.1.2-a" = { local = "../apworlds/manual_slimerancher_axxroy-0.1.2-a.apworld" }

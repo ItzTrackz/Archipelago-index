@@ -1,7 +1,0 @@
-display_name = "Manual: Rhythm Doctor"
-name = "Manual_RhythmDoctor_crimsonDestroyer"
-home = "https://discord.com/channels/731205301247803413/1240437664692572312"
-
-[versions]
-"0.0.1" = { local = "../apworlds/manual_rhythmdoctor_crimsondestroyer-0.0.1.apworld" }
-"0.0.2" = { local = "../apworlds/manual_rhythmdoctor_crimsondestroyer-0.0.2.apworld" }

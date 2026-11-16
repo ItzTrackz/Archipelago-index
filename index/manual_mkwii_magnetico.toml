@@ -1,7 +1,0 @@
-name = "Manual_mkwii_magnetico"
-display_name = "Manual: Mario Kart Wii"
-home = "https://discord.com/channels/1097532591650910289/1224087283964051617"
-
-[versions]
-"0.0.1+magnetico" = { local = "../apworlds/manual_mkwii_magnetico-0.0.1.apworld" }
-
