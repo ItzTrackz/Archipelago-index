@@ -1,0 +1,5 @@
+name = "Hollow Knight: Silksong"
+default_url = "https://github.com/Batatvideogames/silksong-archipelago-randomizer/releases/download/v{{version}}/silksong.apworld"
+
+[versions]
+"0.5.5" = {}
