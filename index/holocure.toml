@@ -1,0 +1,5 @@
+name = "Holocure"
+default_url = "https://github.com/PippleCultist/HoloCureArchipelagoMod/releases/download/v{{version}}/holocure.apworld"
+
+[versions]
+"0.2.4" = {}
