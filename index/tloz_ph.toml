@@ -1,5 +1,5 @@
 name = "The Legend of Zelda: Phantom Hourglass"
-default_url = "https://github.com/carrotinator/Archipelago/releases/tag/ph-v{{version}}/tloz_ph.apworld"
+default_url = "https://github.com/carrotinator/Archipelago/releases/download/ph-v{{version}}/tloz_ph.apworld"
 
 [versions]
 "0.10.3" = {}
